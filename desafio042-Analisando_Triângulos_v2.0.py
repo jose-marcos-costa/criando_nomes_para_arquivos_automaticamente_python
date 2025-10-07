@@ -1,0 +1,1 @@
+# O arquivo 'desafio042-Analisando_Triângulos_v2.0.py' foi criado automaticamente

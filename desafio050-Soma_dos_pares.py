@@ -1,0 +1,1 @@
+# O arquivo 'desafio050-Soma_dos_pares.py' foi criado automaticamente

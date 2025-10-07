@@ -1,0 +1,1 @@
+# O arquivo 'desafio045-GAME_Pedra_Papel_e_Tesoura.py' foi criado automaticamente

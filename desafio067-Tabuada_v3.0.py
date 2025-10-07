@@ -1,0 +1,1 @@
+# O arquivo 'desafio067-Tabuada_v3.0.py' foi criado automaticamente

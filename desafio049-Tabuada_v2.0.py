@@ -1,0 +1,1 @@
+# O arquivo 'desafio049-Tabuada_v2.0.py' foi criado automaticamente

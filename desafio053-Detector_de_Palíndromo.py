@@ -1,0 +1,1 @@
+# O arquivo 'desafio053-Detector_de_Palíndromo.py' foi criado automaticamente
