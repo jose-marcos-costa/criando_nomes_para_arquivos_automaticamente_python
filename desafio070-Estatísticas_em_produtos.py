@@ -1,1 +1,0 @@
-# O arquivo 'desafio070-Estatísticas_em_produtos.py' foi criado automaticamente

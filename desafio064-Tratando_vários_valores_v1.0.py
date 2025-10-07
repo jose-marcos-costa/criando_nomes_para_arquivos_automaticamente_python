@@ -1,1 +1,0 @@
-# O arquivo 'desafio064-Tratando_vários_valores_v1.0.py' foi criado automaticamente

@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio036-Aprovando_Empréstimo.py' foi criado automaticamente

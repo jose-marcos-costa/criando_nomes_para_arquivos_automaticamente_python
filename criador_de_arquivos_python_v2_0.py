@@ -1,3 +1,6 @@
+from os import mkdir
+mkdir('desafios')
+diretorio = './desafios/'
 desafios_mundo2 = {
     "036": "Aprovando_Empréstimo",
     "037": "Conversor_de_Bases_Numéricas",
@@ -37,7 +40,7 @@ desafios_mundo2 = {
     "071": "Simulador_de_Caixa_Eletrônico"}
 
 for lista in desafios_mundo2:
-    nome = 'desafio' + str(lista) + '-' + str(desafios_mundo2[lista]) + '.py'
+    nome = diretorio + 'desafio' + str(lista) + '-' + str(desafios_mundo2[lista]) + '.py'
     #print(nome)
     with open(nome, 'w') as arquivo:
         arquivo.write("# O arquivo '{}' foi criado automaticamente".format(nome))

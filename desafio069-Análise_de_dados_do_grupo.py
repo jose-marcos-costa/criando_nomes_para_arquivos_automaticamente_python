@@ -1,1 +1,0 @@
-# O arquivo 'desafio069-Análise_de_dados_do_grupo.py' foi criado automaticamente

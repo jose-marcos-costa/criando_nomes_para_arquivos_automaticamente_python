@@ -1,1 +1,0 @@
-# O arquivo 'desafio041-Classificando_Atletas.py' foi criado automaticamente

@@ -1,1 +1,0 @@
-# O arquivo 'desafio062-Super_Progressão_Aritmética_v3.0.py' foi criado automaticamente

@@ -1,1 +1,0 @@
-# O arquivo 'desafio044-Gerenciador_de_Pagamentos.py' foi criado automaticamente

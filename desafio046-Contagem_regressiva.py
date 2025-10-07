@@ -1,1 +1,0 @@
-# O arquivo 'desafio046-Contagem_regressiva.py' foi criado automaticamente

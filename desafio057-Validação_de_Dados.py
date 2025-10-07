@@ -1,1 +1,0 @@
-# O arquivo 'desafio057-Validação_de_Dados.py' foi criado automaticamente

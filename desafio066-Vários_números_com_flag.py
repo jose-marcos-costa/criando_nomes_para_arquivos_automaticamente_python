@@ -1,1 +1,0 @@
-# O arquivo 'desafio066-Vários_números_com_flag.py' foi criado automaticamente

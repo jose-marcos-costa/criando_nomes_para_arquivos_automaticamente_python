@@ -1,1 +1,0 @@
-# O arquivo 'desafio056-Analisador_completo.py' foi criado automaticamente
